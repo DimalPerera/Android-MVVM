@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6659B0</color>
+    <color name="colorPrimaryDark">#6659b0</color>
+    <color name="colorAccent">#DBDBDB</color>
+
+    <!--HEADER-->
+    <color name="header_text_color">#1B0E23</color>
+    <color name="header_bg_color">#FFFFFF</color>
+    <color name="header_stroke_color">#F7F7F7</color>
+
+    <!--JOB ROW-->
+    <color name="job_row_sub_text_color">@color/colorPrimary</color>
+
+</resources>
