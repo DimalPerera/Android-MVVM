@@ -1,4 +1,4 @@
-# Temper - Supportive Document
+# Supportive Document
 
 ## Application Architecture
 MVVM
